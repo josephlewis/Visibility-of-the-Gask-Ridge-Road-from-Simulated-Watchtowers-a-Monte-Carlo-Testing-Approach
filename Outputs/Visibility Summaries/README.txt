@@ -1,0 +1,1 @@
+Sum of cumulative number of visible cells from the true locations of the watchtowers and the Simulated Background Sample Points that incorporate the spatial interaction structure of the watchtowers

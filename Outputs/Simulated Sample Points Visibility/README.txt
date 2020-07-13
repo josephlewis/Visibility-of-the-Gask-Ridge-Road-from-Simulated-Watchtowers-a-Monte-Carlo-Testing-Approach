@@ -1,0 +1,1 @@
+Viewshed Analysis from Simulated Background Sample Points that incorporate the spatial interaction structure of the watchtowers
