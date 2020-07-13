@@ -1,6 +1,6 @@
 # Visibility of the Gask Ridge Road from Simulated Watchtowers: a Monte Carlo Testing Approach
 
-This repository contains all the data and scripts required to fully reproduce all analyses presented in the paper "Visibility of the Gask Ridge Road from Simulated Watchtowers: a Monte Carlo Testing Approach" authored by Lewis, J. 
+This repository contains all the data and scripts required to fully recreate all analyses presented in the paper "Visibility of the Gask Ridge Road from Simulated Watchtowers: a Monte Carlo Testing Approach" authored by Lewis, J. 
 
 Getting Started
 ---------------
@@ -11,8 +11,3 @@ Getting Started
     + **For testing purposes, it is recommended to change the nsims (line 76) to a smaller number than 99.**
     
 **The analysis was conducted using the Ordnance Survey 5m Digital Elevation Data. However, due to the licensing agreement, the data cannot be shared. In order to reproduce the analysis, the user will need to source the OS 5m DEM data or use freely available DEMs such as SRTM 30m. 
-    
-License
----------------
-
-CC-BY 3.0 unless otherwise stated (see Licenses.md)
