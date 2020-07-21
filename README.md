@@ -12,6 +12,6 @@ Getting Started
     + **Caution: The creation of the viewsheds representing the cumulative viewsheds from the true locations of watchtowers and the simulated watchtowers requires the total calculation of 1,000 viewsheds. The temporary folder to store the intermediate viewsheds can be stated on line 53, with the location of the GRASS installation stated on line 52** 
     + **For testing purposes, it is recommended to change the nsims (line 76) to a smaller number than 99.**
     
-**The analysis was conducted using the Ordnance Survey 5m Digital Elevation Data. However, due to the licensing agreement, the data cannot be shared. In order to reproduce the analysis, the user will need to source the OS 5m DEM data or use freely available DEMs such as SRTM 30m.**
+**The analysis was conducted using the Ordnance Survey 5m Digital Elevation Data. However, due to the licensing agreement, the data cannot be shared. In order to recreate the analysis, the user will need to source the OS 5m DEM data or use freely available DEMs such as SRTM 30m.**
 
 + The Visibility function in the main R script requires GRASS 7 to be installed and running. See https://grasswiki.osgeo.org/wiki/R_statistics/rgrass7 for an introduction to using GRASS within the R environment. 
