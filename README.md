@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/275536318.svg)](https://zenodo.org/badge/latestdoi/275536318)
+
 # Visibility of the Gask Ridge Road from Simulated Watchtowers: a Monte Carlo Testing Approach
 
 This repository contains all the data and scripts required to fully recreate all analyses presented in the paper "Visibility of the Gask Ridge Road from Simulated Watchtowers: a Monte Carlo Testing Approach" authored by Lewis, J. 
