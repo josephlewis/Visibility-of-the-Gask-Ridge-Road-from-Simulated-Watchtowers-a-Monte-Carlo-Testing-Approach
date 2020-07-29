@@ -1,3 +1,9 @@
+Published in Journal of Archaeological Science: Reports Volume 33, October 2020, 102482:
+
+https://doi.org/10.1016/j.jasrep.2020.102482
+
+Data and Code also available on Zenodo:
+
 [![DOI](https://zenodo.org/badge/275536318.svg)](https://zenodo.org/badge/latestdoi/275536318)
 
 # Visibility of the Gask Ridge Road from Simulated Watchtowers: a Monte Carlo Testing Approach
