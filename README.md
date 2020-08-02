@@ -4,6 +4,8 @@ To cite:
 
 Lewis, J., 2020. Visibility of the Gask Ridge road from simulated Watchtowers: A Monte Carlo testing approach. Journal of Archaeological Science: Reports 33, 102482. https://doi.org/10.1016/j.jasrep.2020.102482
 
+Preprint available: https://osf.io/preprints/socarxiv/ebt9n/
+
 Data and Code also available on Zenodo:
 
 [![DOI](https://zenodo.org/badge/275536318.svg)](https://zenodo.org/badge/latestdoi/275536318)
